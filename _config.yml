@@ -45,8 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - You ;)
    
-images: 'sexwithalex.github.io/images/download.jpg'
-![sex](https://sexwithalex.github.io/images/download.jpg)
+
 # Footer
 footer_show_references: true
 
