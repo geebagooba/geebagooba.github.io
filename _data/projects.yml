@@ -1,4 +1,4 @@
 - layout: top-middle
   name: Super awesome project
-  image: images/download.jpg
+  image: 'images/download.jpg'
   
