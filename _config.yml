@@ -29,10 +29,10 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: 
 
 # Projects Section
-# projects_title: Projects
+projects_profile_image: images/download.jpg
 
 # Experience Section
-# experience_title: Experience
+
 
 # Education Section
 # educaton_title: Education
