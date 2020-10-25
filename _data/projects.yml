@@ -1,4 +1,5 @@
 - layout: top-middle
   name: Super awesome project
-  image: 'sexwithalex.github.io/images/download.jpg'
+  main:
+    image: 'sexwithalex.github.io/images/download.jpg'
   
