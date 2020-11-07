@@ -2,6 +2,9 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Google Analytics
+google_analytics: G-N5BC4FYSWL
+
 # Personal info
 name: Alexander Antonovich Zamolotskikh
 title: Sex With Alex 2020
