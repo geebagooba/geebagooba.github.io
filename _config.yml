@@ -1,14 +1,14 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/icon.jpg
+
 
 # Google Analytics
 google_analytics: G-N5BC4FYSWL
 
 # Personal info
-name: Alexander Antonovich Zamolotskikh
-title: Sex With Alex 2021
-email: alex@karanagai.com
+name: evie
+title: evie
+email:
 
 
 # Social links
@@ -17,51 +17,28 @@ email: alex@karanagai.com
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: mr.zamolo
+instagram_username: zamplifies
 # linkedin_username: ja
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/IMG_5123.jpg
+# about_title: Aprons
+about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  Good afternoon, I am Alex and I have a dream. Not a silly dream like change the world but quite a simple one. I would like to have sex with you reader.
-  This has been a turbulent year for us all dear reader but through my 3 step plan I believe that I can significantly improve your 2021:             
-   - Me and you 
-   - **Sex**
-   - Happiness
+  Good afternoon, I am Alex and I have a dream. I want to be a househusband will you make this dream come true evie. if you would like to please let me know okie dokie coolio i have work in a couple hours and can't sleep so ye that's kind of a bummer but yk we live we laught we learn etc etc
   
-  As you can see this plan is robust. So at the end of the day you should not ask how Alex can have sex with you but how you can have sex with Alex.
-  
-  _Sex With Alex 2021_
-  
-# Projects Section
-projects_profile_image: images/download.jpg
-
-# Experience Section
-
-
-# Education Section
-# educaton_title: Education
-
-
-# Education Section
-# educaton_title: Education
-
-# Consumer_Reviews Section
-# consumer_reviews_title: About Me
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in sex some of my other interests and hobbies are:
-   - Being Cool
-   - Gym
-   - Speaking 7 languages
-   - Attending Applied Maths
-   - Being Cool
+  Alongside my interests some of my other interests and hobbies are:
+   -cooking
+   -cleaning
+   -gymin
+   -gardening
+   - being a househusband
    - ...
    
 
